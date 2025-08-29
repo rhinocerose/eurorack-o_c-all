@@ -1,0 +1,28 @@
+[submodule "eurorack-O_C_T41"]
+	path = eurorack-O_C_T41
+	url = git@git-rhino:rhinocerose/eurorack-O_C_T41
+	branch = main
+[submodule "eurorack-loglow-uo_C_SE"]
+	path = eurorack-loglow-uo_C_SE
+	url = git@git-rhino:rhinocerose/eurorack-loglow-uo_C_SE
+	branch = main
+[submodule "eurorack-O_C"]
+	path = eurorack-O_C
+	url = git@git-rhino:rhinocerose/eurorack-O_C
+	branch = main
+[submodule "eurorack_OC_squares-and-circles"]
+	path = eurorack_OC_squares-and-circles
+	url = git@git-rhino:rhinocerose/eurorack_OC_squares-and-circles
+	branch = main
+[submodule "eurorack-jakplugg-uO_c"]
+	path = eurorack-jakplugg-uO_c
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-uO_c
+	branch = main
+[submodule "eurorack-1U-1uO_c-mk2"]
+	path = eurorack-1U-1uO_c-mk2
+	url = git@git-rhino:rhinocerose/eurorack-1U-1uO_c-mk2
+	branch = main
+[submodule "eurorack-O_C-Phazerville"]
+	path = eurorack-O_C-Phazerville
+	url = git@git-rhino:rhinocerose/eurorack-O_C-Phazerville
+	branch = main
