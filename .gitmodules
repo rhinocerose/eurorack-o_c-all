@@ -18,6 +18,3 @@
 	path = eurorack-O_C-Phazerville
 	url = git@git-rhino:rhinocerose/eurorack-O_C-Phazerville
 	branch = main
-[submodule "eurorack_OC_squares-and-circles"]
-	path = eurorack_OC_squares-and-circles
-	url = git@git-rhino:rhinocerose/eurorack_OC_squares-and-circles
