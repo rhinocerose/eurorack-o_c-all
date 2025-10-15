@@ -6,10 +6,6 @@
 	path = eurorack-loglow-uo_C_SE
 	url = git@git-rhino:rhinocerose/eurorack-loglow-uo_C_SE
 	branch = main
-[submodule "eurorack_OC_squares-and-circles"]
-	path = eurorack_OC_squares-and-circles
-	url = git@git-rhino:rhinocerose/eurorack_OC_squares-and-circles
-	branch = main
 [submodule "eurorack-jakplugg-uO_c"]
 	path = eurorack-jakplugg-uO_c
 	url = git@git-rhino:rhinocerose/eurorack-jakplugg-uO_c
